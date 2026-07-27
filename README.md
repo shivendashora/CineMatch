@@ -17,5 +17,3 @@ TF-IDF Vectorization
 Cosine Similarity
 
 This project demonstrates the fundamentals of recommendation systems, feature engineering, natural language processing, and similarity-based information retrieval in machine learning.
-
-I would recommend Option 3 for GitHub because it looks polished, explains the approach clearly, and gives visitors a good understanding of the project at a glance.
